@@ -16,27 +16,27 @@ export const tenants: Tenant[] = [
   {
     id: "1",
     name: "Warung Nasi Padang",
-    image: "https://images.unsplash.com/photo-1555939594-58d7cb561ad1?w=400&h=300&fit=crop",
+    image: "https://images.unsplash.com/photo-1677921755291-c39158477b8e?q=80",
   },
   {
     id: "2",
     name: "Bakso Malang Cak Kar",
-    image: "https://images.unsplash.com/photo-1612874742237-652622b8b378?w=400&h=300&fit=crop",
+    image: "https://images.unsplash.com/photo-1687425973269-af0d62587769?q=80",
   },
   {
     id: "3",
     name: "Sate Madura Pak Joko",
-    image: "https://images.unsplash.com/photo-1574781330858-7c07c894d0a5?w=400&h=300&fit=crop",
+    image: "https://images.unsplash.com/photo-1645696301019-35adcc18fc21?q=80",
   },
   {
     id: "4",
     name: "Gudeg Jogja Bu Sari",
-    image: "https://images.unsplash.com/photo-1565299624946-b28f40a0ae38?w=400&h=300&fit=crop",
+    image: "https://images.unsplash.com/photo-1707529332935-bfa3925f15ac?q=80",
   },
   {
     id: "5",
     name: "Mie Ayam Bakso Abang",
-    image: "https://images.unsplash.com/photo-1569718212165-3a8278d5f624?w=400&h=300&fit=crop",
+    image: "https://images.unsplash.com/photo-1747317277795-0d601795682c?q=80",
   },
 ];
 
@@ -70,7 +70,7 @@ export const menus: Menu[] = [
     price: 22000,
     description: "Ayam pop khas Padang dengan sambal hijau",
   },
-  
+
   // Menu untuk Bakso Malang Cak Kar (id: 2)
   {
     id: "m5",
@@ -100,7 +100,7 @@ export const menus: Menu[] = [
     price: 18000,
     description: "Mie ayam dengan bakso dan pangsit",
   },
-  
+
   // Menu untuk Sate Madura Pak Joko (id: 3)
   {
     id: "m9",
@@ -130,7 +130,7 @@ export const menus: Menu[] = [
     price: 25000,
     description: "Lontong dengan sate ayam dan bumbu kacang",
   },
-  
+
   // Menu untuk Gudeg Jogja Bu Sari (id: 4)
   {
     id: "m13",
@@ -153,7 +153,7 @@ export const menus: Menu[] = [
     price: 18000,
     description: "Gudeg kering dengan ayam dan sambal",
   },
-  
+
   // Menu untuk Mie Ayam Bakso Abang (id: 5)
   {
     id: "m16",
